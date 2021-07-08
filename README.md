@@ -1,5 +1,5 @@
 # LogRegLIME
-Logistic Regression Sentiment Analysis With Lime Analysis
+Logistic Regression Sentiment Analysis With Lime Analysis:
 To build the logistic regression , firstly a dataframe is created with binary labels -1
 and 1, labelling all negative reviews as -1 and all positive reviews as 1. Next to each label
 is its respective the text review data. The text passes through a pre-processing function
